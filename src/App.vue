@@ -1,10 +1,10 @@
 <template>
-  <div id="nav">
-12345
+  <div>
+      vbnvbnmvbnb
   </div>
   <router-view/>
 </template>
 
 <style>
-
+@import "assets/css/base.css";
 </style>
